@@ -7,33 +7,33 @@ You did the heavy lifting in DESN 368. This is just a quick check to make sure e
 ## ✅ Quick Checklist
 
 ### 1. Repository Created
-- [ ] Used "Use this template" (not fork)
-- [ ] Renamed to something professional (e.g., `desn378-portfolio` or `yourname-378`)
-- [ ] Repository is **public**
+- [x] Used "Use this template" (not fork)
+- [x] Renamed to something professional (e.g., `desn378-portfolio` or `yourname-378`)
+- [x] Repository is **public**
 
 ### 2. Profile Consistency
-- [ ] Same **name** on GitHub, Figma, CodePen (First Last)
-- [ ] Same **profile photo** everywhere
-- [ ] [PROFILE.md](./PROFILE.md) updated with your links
+- [x] Same **name** on GitHub, Figma, CodePen (First Last)
+- [x] Same **profile photo** everywhere
+- [x] [PROFILE.md](./PROFILE.md) updated with your links
 
 ### 3. GitHub Student Pack
-- [ ] Still active? → [Check here](https://education.github.com/pack)
-- [ ] If expired, reapply with current EWU credentials
-- [ ] Copilot enabled in VS Code
+- [x] Still active? → [Check here](https://education.github.com/pack)
+- [x] If expired, reapply with current EWU credentials
+- [x] Copilot enabled in VS Code
 
 ### 4. Figma Education
-- [ ] Still active? → [Check in Settings](https://www.figma.com/settings)
-- [ ] If expired, reapply: [figma.com/education](https://www.figma.com/education/apply)
-- [ ] Joined the DESN 378 team (link in Canvas)
+- [x] Still active? → [Check in Settings](https://www.figma.com/settings)
+- [x] If expired, reapply: [figma.com/education](https://www.figma.com/education/apply)
+- [x] Joined the DESN 378 team (link in Canvas)
 
 ### 5. VS Code Ready
-- [ ] GitHub Copilot extension installed
-- [ ] Live Server extension installed
-- [ ] Prettier extension installed (recommended)
+- [x] GitHub Copilot extension installed
+- [x] Live Server extension installed
+- [x] Prettier extension installed (recommended)
 
 ### 6. GitHub Pages
-- [ ] Enabled for this repo: Settings → Pages → Source: main branch
-- [ ] Tested: `https://yourusername.github.io/your-repo-name/`
+- [x] Enabled for this repo: Settings → Pages → Source: main branch
+- [x] Tested: `https://yourusername.github.io/your-repo-name/`
 
 ---
 
