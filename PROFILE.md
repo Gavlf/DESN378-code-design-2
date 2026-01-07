@@ -54,7 +54,7 @@ Update it once, keep it consistent everywhere.
 | Item | Status |
 |------|--------|
 | Education Plan Active | ✅ |
-| Joined Course Team | ❌ |
+| Joined Course Team | ✅ |
 | Expires | Over 1 Year |
 
 👉 [Check status](https://www.figma.com/settings) → Plan
