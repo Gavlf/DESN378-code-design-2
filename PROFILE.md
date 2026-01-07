@@ -9,10 +9,10 @@ Update it once, keep it consistent everywhere.
 
 | Field | Value |
 |-------|-------|
-| **Name** | <!-- First Last --> |
-| **Preferred Name** | <!-- What should I call you? --> |
-| **Pronouns** | <!-- Optional --> |
-| **EWU Email** | <!-- @ewu.edu --> |
+| **Name** | Gavin Figueroa |
+| **Preferred Name** | Gavin or Gav |
+| **Pronouns** | He/Him |
+| **EWU Email** | Gfigueroa@ewu.edu |
 
 ---
 
@@ -22,18 +22,18 @@ Update it once, keep it consistent everywhere.
 
 | Platform | Profile URL | Status |
 |----------|-------------|--------|
-| **GitHub** | `https://github.com/________` | ⏳ |
-| **Figma** | `@________` | ⏳ |
-| **CodePen** | `https://codepen.io/________` | ⏳ |
+| **GitHub** | `https://github.com/Gavlf` | ✅ |
+| **Figma** | `@gfigueroa` | ✅ |
+| **CodePen** | `https://codepen.io/Gavlf` | ✅ |
 | **Portfolio** | *Coming Week 10* | 🔲 |
 
 ---
 
 ## Profile Photo
 
-- [ ] Same photo uploaded to GitHub, Figma, and CodePen
-- [ ] Professional or at least *intentional*
-- [ ] Face visible (helps me learn names!)
+- [x] Same photo uploaded to GitHub, Figma, and CodePen
+- [x] Professional or at least *intentional*
+- [x] Face visible (helps me learn names!)
 
 ---
 
@@ -41,9 +41,9 @@ Update it once, keep it consistent everywhere.
 
 | Item | Status |
 |------|--------|
-| Applied/Renewed | ⏳ |
-| Copilot Access | ⏳ |
-| Expires | <!-- Date --> |
+| Applied/Renewed | ✅ |
+| Copilot Access | ✅ |
+| Expires | Over 1 Year |
 
 👉 [Check status or renew](https://education.github.com/pack)
 
@@ -53,9 +53,9 @@ Update it once, keep it consistent everywhere.
 
 | Item | Status |
 |------|--------|
-| Education Plan Active | ⏳ |
-| Joined Course Team | ⏳ |
-| Expires | <!-- Date --> |
+| Education Plan Active | ✅ |
+| Joined Course Team | ❌ |
+| Expires | Over 1 Year |
 
 👉 [Check status](https://www.figma.com/settings) → Plan
 
@@ -65,10 +65,7 @@ Update it once, keep it consistent everywhere.
 
 *Optional: A sentence or two about your design interests. This could seed your eventual portfolio bio.*
 
-<!-- 
-Example: "I'm drawn to motion design and systems thinking. 
-Currently exploring how interaction design can feel more human."
--->
+"I'm drawn to modern minimalism and the use of motion to softly guide a user through seamless web experiences." 
 
 ---
 
