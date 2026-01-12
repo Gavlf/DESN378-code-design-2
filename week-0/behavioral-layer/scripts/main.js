@@ -14,19 +14,32 @@ myImage.addEventListener("click", () => {
   }
 });
 
-let myButton = document.querySelector("button");
-let myHeading = document.querySelector("h1");
+const myButton = document.querySelector("button");
+
 function setUserName() {
   const myName = prompt("Please enter your name.");
-  localStorage.setItem("name", myName);
-  myHeading.textContent = `J   E   N   N   I   E, ${myName}`;
+  if (myName) {
+    localStorage.setItem("name", myName);
+    const spacedName = myName.toUpperCase().split('').join('   ');
+    myHeading.innerHTML = `J   E   N   N   I   E  <span style="font-size: 0.8em; padding: 0 0.5em;">&</span> ${spacedName}`;
+  } else {
+    myHeading.textContent = "J   E   N   N   I   E";
+  }
 }
-if (!localStorage.getItem("name")) {
-  setUserName();
-} else {
+if (localStorage.getItem("name")) {
   const storedName = localStorage.getItem("name");
-  myHeading.textContent = `J   E   N   N   I   E, ${storedName}`;
+  const spacedName = storedName.toUpperCase().split('').join('   ');
+  myHeading.innerHTML = `J   E   N   N   I   E  <span style="font-size: 0.8em; padding: 0 0.5em;">&</span>  ${spacedName}`;
 }
 myButton.addEventListener("click", () => {
   setUserName();
 });
+
+/*
+  SUMMARY:
+  This file does two things:
+  1. Shows promotional visuals of Jennie for her song that change when clicked.
+  2. Displays Jennie's name along with the user's name in a stylized format, playing off the song title "You & Me".
+
+  The key pattern I learned: Java is similar to Python in the way that it's functions say exactly what they do for the most part.
+*/
