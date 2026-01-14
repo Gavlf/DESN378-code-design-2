@@ -24,12 +24,41 @@ This is my workspace for **DESN 378 Code + Design 2** also known as **Web Design
 
 Update this section each week with observations, breakthroughs, and questions.
 
-### Week 1: Systems That Respond
-*Coming soon...*
-
-### Week 2: Remembering Choices
-*Coming soon...*
-
+## Week 0​
+### What I Learned
+- How to create and assign meaning/function to variables
+- The basic structure of JavaScript code
+- Java is similar to Python in its objective focus
+​
+​
+### What Was Hard
+- Having to create a variable and then assign it meaning instead of doing it all at once, like with classes or IDs in CSS
+- The initial process of learning to read Java (it looks complicated at first)​
+​
+### How I Used AI
+- I used Copilot to help me further customize my image switcher and custom user functions on the behavioral layer assignment
+​
+​
+### What's Still Unclear
+- How do I link my CSS to my script?
+​
+​
+### Work Completed (Week 0)
+​
+**Engage**
+- [x] Portfolio Audit
+​
+**Learn**
+- [x] Console Explorer
+- [x] Codedex Console Fundamentals
+​
+**Reflect**
+- [x] Visual Notes: Variables and Strings
+​
+**Build**
+- [x] The Setup
+- [x] The Behavioral Layer
+​
 ---
 
 ## Quick Links
