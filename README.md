@@ -1,7 +1,7 @@
 # DESN 378: Code + Design 2
 
-🔗 **[Learning Log](htps://yourusername.github.io/this repo-namet)**
-🔗 **[DESN368 Portfolio](https://gavlf.github.io/DESN378-code-design-2/)** _FYI, this is just the URL to your repo; if it's still on Netlify, then use that. _
+🔗 **[Learning Log](https://gavlf.github.io/DESN378-code-design-2/)**
+🔗 **[DESN368 Portfolio](https://github.com/Gavlf/DESN378-code-design-2)
 
 ---
 
