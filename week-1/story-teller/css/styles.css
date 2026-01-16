@@ -1,0 +1,35 @@
+/* CSS Reset */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Background */
+main{
+    background-color: black;
+}
+
+#story-title{
+    font-family: 'Montserrat', serif;
+    color: white;
+    font-weight:400;
+    text-align: center;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    font-size: 6vh;
+}
+
+/* Image Styles */
+.story-image{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.story-image img{
+    max-width: 67vh;
+    height: auto;
+}
