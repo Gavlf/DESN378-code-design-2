@@ -12,23 +12,42 @@ main{
     background-color: black;
 }
 
-#story-title{
+/* Text Styles */
+.story-text{
+    display: grid;
+    justify-content: center;
+    background-color: black;
+    z-index: 1;
+}
+
+#story-caption{
     font-family: 'Montserrat', serif;
     color: white;
     font-weight:400;
     text-align: center;
-    margin-bottom: 2vh;
+    padding: 2vh;
     font-size: 6vh;
 }
 
 /* Image Styles */
 .story-image{
-    display: flex;
+    display: grid;
     justify-content: center;
     cursor: pointer;
 }
 
 .story-image img{
-    max-width: 67vh;
+    max-width: 66.7vh;
     height: auto;
+}
+
+/*Grid Overlay*/
+.story-grid{
+    display: grid;
+    place-items: center;
+}
+
+.story-image,
+.story-text {
+  grid-area: 1 / 1;
 }
