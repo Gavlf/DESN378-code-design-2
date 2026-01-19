@@ -12,24 +12,33 @@ main{
     background-color: black;
 }
 
-/* Text Styles */
-.story-text{
+/* Text Styles + Animations */
+.story-header{
     display: grid;
     justify-content: center;
     background-color: black;
     z-index: 1;
+    transition: opacity 0.5s ease-out;
+    opacity: 1;
 }
 
-#story-caption{
+.story-header.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+#story-title{
     font-family: 'Montserrat', serif;
     color: white;
     font-weight:400;
     text-align: center;
     padding: 2vh;
     font-size: 6vh;
+    transition: color 0.5s ease-in;
 }
 
-/* Image Styles */
+
+/* Image Styles + Animations */
 .story-image{
     display: grid;
     justify-content: center;
@@ -39,6 +48,7 @@ main{
 .story-image img{
     max-width: 66.7vh;
     height: auto;
+    transition: opacity 0.5s ease-in-out;
 }
 
 /*Grid Overlay*/
@@ -48,6 +58,6 @@ main{
 }
 
 .story-image,
-.story-text {
+.story-header {
   grid-area: 1 / 1;
 }
