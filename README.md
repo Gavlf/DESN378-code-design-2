@@ -99,8 +99,6 @@ Update this section each week with observations, breakthroughs, and questions.
 ​
 ---
 
----
-
 ## Week 2​
 ### What I Learned
 - 
