@@ -126,14 +126,14 @@ Update this section each week with observations, breakthroughs, and questions.
 ​
 **Learn**
 - [ ] Storyteller Tutorial
-- [ ] Figma Variables
-- [ ] Codedex Conditionals
+- [x] Figma Variables
+- [x] Codedex Conditionals
 ​
 **Reflect**
-- [ ] Week 2 Visual Notes
+- [x] Week 2 Visual Notes
 ​
 **Build**
-- [ ] The Foundation
+- [x] The Foundation
 - [ ] The Switch
 ​
 ---
