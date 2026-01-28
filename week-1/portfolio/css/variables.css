@@ -1,0 +1,65 @@
+/* Design Tokens — Gavin Figueroa's Portfolio */
+
+/* Color Tokens*/
+:root{
+  --Grays__Gray90:#303030;
+  --Grays__Gray50:#b7b7b7;
+  --Grays__Gray20:#dfdfdf;
+  --Whites__White00:#ffffff;
+  --Blacks__Black00:#000000;
+  --Grays__Gray70:#6e6e6e;
+  --BackgroundColors__Gray70:var(--Grays__Gray70);
+  --BackgroundColors__Gray20:var(--Grays__Gray20);
+  --TextColors__Black00:var(--Blacks__Black00);
+  --TextColors__White00:var(--Whites__White00);
+}
+
+/* Colors */
+.Color Primitives{
+  --Grays__Gray90:#303030;
+  --Grays__Gray50:#b7b7b7;
+  --Grays__Gray20:#dfdfdf;
+  --Whites__White00:#ffffff;
+  --Blacks__Black00:#000000;
+  --Grays__Gray70:#6e6e6e;
+}
+
+.Brand Colors{
+  --BackgroundColors__Black00:var(--Blacks/Black-00);
+  --BackgroundColors__White00:var(--Whites/White-00);
+  --TextColors__Gray90:var(--Grays/Gray-90);
+  --AccentColors__Gray50:var(--Grays/Gray-50);
+  --AccentColors__Gray70:var(--Grays/Gray-70);
+  --BackgroundColors__Gray70:var(--Grays/Gray-70);
+  --BackgroundColors__Gray20:var(--Grays/Gray-20);
+  --AccentColors__White00:var(--Whites/White-00);
+  --TextColors__Black00:var(--Blacks/Black-00);
+  --TextColors__White00:var(--Whites/White-00);
+}
+
+/* Typography */ 
+.Brand Typography{
+  --Heading__fontfamily__headingfontfamily:Outfit;
+  --Body__fontfamily__bodyfontfamily:Inter;
+  --Body__textsize__fontsizes:17;
+  --Body__textsize__fontsizem:22;
+  --Body__textsize__fontsizel:32;
+  --Heading__textsize__fontsizel:128;
+  --Heading__textsize__fontsizem:96;
+  --Heading__textsize__fontsizes:55;
+  --Heading__textweight__fontweightlight:ExtraLight;
+  --Heading__textweight__fontweightdefault:Regular;
+  --Body__textweight__fontweightlight:Light;
+  --Body__textweight__fontweightdefault:Regular;
+  --Body__lineheight__lineheightdefault:38.400001525878906;
+  --Body__lineheight__lineheightspaced:21.600000381469727;
+  --Body__textweight__fontweightextralight:Extra Light;
+}
+
+/* Spacing */ 
+.Spacing{
+  --M:64.08999633789062;
+  --L:160;
+  --S:40;
+  --XL:185;
+}
