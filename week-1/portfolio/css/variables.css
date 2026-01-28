@@ -8,7 +8,7 @@
   --Whites__White00:#ffffff;
   --Blacks__Black00:#000000;
   --Grays__Gray70:#6e6e6e;
-  --BackgroundColors__Gray70:var(--Grays__Gray70);
+  --BackgroundColors__Gray50:var(--Grays__Gray50);
   --BackgroundColors__Gray20:var(--Grays__Gray20);
   --TextColors__Black00:var(--Blacks__Black00);
   --TextColors__White00:var(--Whites__White00);
@@ -31,6 +31,7 @@
   --AccentColors__Gray50:var(--Grays/Gray-50);
   --AccentColors__Gray70:var(--Grays/Gray-70);
   --BackgroundColors__Gray70:var(--Grays/Gray-70);
+  --BackgroundColors__Gray50:var(--Grays/Gray-50);
   --BackgroundColors__Gray20:var(--Grays/Gray-20);
   --AccentColors__White00:var(--Whites/White-00);
   --TextColors__Black00:var(--Blacks/Black-00);

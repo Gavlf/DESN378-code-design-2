@@ -24,7 +24,7 @@ body {
     font-weight: 400;
     letter-spacing: 10px;
     text-align: center;
-    background-color: var(--BackgroundColors__Gray70);
+    background-color: var(--BackgroundColors__Gray50);
     margin: 0;
     padding:20px;
 }
@@ -41,7 +41,7 @@ body {
 
 /* nav */
 #nav-bar{
-    background-color: var(--BackgroundColors__Gray70);
+    background-color: var(--BackgroundColors__Gray50);
     position: sticky;
     top: 0;
     overflow: hidden;
@@ -156,7 +156,7 @@ body {
 
 
 #work-showcase{
-    background-color:  var(--BackgroundColors__Gray70);
+    background-color:  var(--BackgroundColors__Gray50);
     padding-bottom: 40px;
     scroll-margin-top: 120px; 
 }
