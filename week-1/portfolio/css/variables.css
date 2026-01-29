@@ -8,10 +8,21 @@
   --Whites__White00:#ffffff;
   --Blacks__Black00:#000000;
   --Grays__Gray70:#6e6e6e;
-  --BackgroundColors__Gray50:var(--Grays__Gray50);
-  --BackgroundColors__Gray20:var(--Grays__Gray20);
+}
+
+/*Light Mode*/
+:root{
+  --BackgroundColors__Dark:var(--Grays__Gray50);
+  --BackgroundColors__Light:var(--Grays__Gray20);
   --TextColors__Black00:var(--Blacks__Black00);
-  --TextColors__White00:var(--Whites__White00);
+  --TextColors__Primary:var(--Grays__Gray90);
+}
+
+/*Dark Mode*/
+body.dark{
+  --BackgroundColors__Dark:var(--Blacks__Black00);
+  --BackgroundColors__Light:var(--Whites__White00);
+  --TextColors__Primary:var(--Whites__White00);
 }
 
 /* Colors */
@@ -27,12 +38,12 @@
 .Brand Colors{
   --BackgroundColors__Black00:var(--Blacks/Black-00);
   --BackgroundColors__White00:var(--Whites/White-00);
-  --TextColors__Gray90:var(--Grays/Gray-90);
+  --TextColors__Primary:var(--Grays/Gray-90);
   --AccentColors__Gray50:var(--Grays/Gray-50);
   --AccentColors__Gray70:var(--Grays/Gray-70);
   --BackgroundColors__Gray70:var(--Grays/Gray-70);
-  --BackgroundColors__Gray50:var(--Grays/Gray-50);
-  --BackgroundColors__Gray20:var(--Grays/Gray-20);
+  --BackgroundColors__Dark:var(--Grays/Gray-50);
+  --BackgroundColors__Light:var(--Grays/Gray-20);
   --AccentColors__White00:var(--Whites/White-00);
   --TextColors__Black00:var(--Blacks/Black-00);
   --TextColors__White00:var(--Whites/White-00);

@@ -5,26 +5,24 @@
 :root {
     --font-family: 'Outfit', sans-serif;
     --font-size-header: 120px;
-    --color-header: var(--BackgroundColors__Gray70);
-    --color-background: var(--BackgroundColors__Gray70);
 }
 
 /* css reset */
 body {
     margin: 0;
     padding: 0;
-    background-color: var(--BackgroundColors__Gray20);
+    background-color: var(--BackgroundColors__Light);
   }
 
 /* header */
 #header-text{
-    color: var(--color-header);
+    color: var(--TextColors__Primary);
     font-size: var(--font-size-header);
     font-family: var(--font-family);
     font-weight: 400;
     letter-spacing: 10px;
     text-align: center;
-    background-color: var(--BackgroundColors__Gray50);
+    background-color: var(--BackgroundColors__Dark);
     margin: 0;
     padding:20px;
 }
@@ -41,7 +39,7 @@ body {
 
 /* nav */
 #nav-bar{
-    background-color: var(--BackgroundColors__Gray50);
+    background-color: var(--BackgroundColors__Dark);
     position: sticky;
     top: 0;
     overflow: hidden;
@@ -65,11 +63,11 @@ body {
 .nav-link a{
     text-decoration: none;
     cursor: pointer;
-    color:white;
+    color: var(--TextColors__Primary);
 }
 
 .nav-link a:hover{
-    color: rgb(183, 183, 183);
+    color: var(--TextColors__Primary);
     transition: color 0.3s ease-in-out;
 }
 
@@ -147,7 +145,7 @@ body {
     margin-top: 80px;
     margin-bottom: 40px;
     padding-top: 100px;
-    color: white;
+    color: var(--TextColors__Primary);
 }
 
 #work-showcase h2 img{
@@ -156,7 +154,7 @@ body {
 
 
 #work-showcase{
-    background-color:  var(--BackgroundColors__Gray50);
+    background-color:  var(--BackgroundColors__Dark);
     padding-bottom: 40px;
     scroll-margin-top: 120px; 
 }
@@ -189,7 +187,7 @@ body {
 }
 
 #website-cards p{
-    color:white;
+    color: var(--TextColors__Primary);
     font-family: 'Outfit', sans-serif;
     font-size: 40px;
     font-weight: 200;
@@ -240,7 +238,7 @@ body {
 /* contact-section*/
 
 #contact-section{
-    background-color: var(--BackgroundColors__Gray20);
+    background-color: var(--BackgroundColors__Light);
     display:flex;
     flex-direction: column;
     align-items:center;
@@ -354,7 +352,7 @@ body {
 
 /*footer*/
 #footer-section{
-    background-color: var(--BackgroundColors__Gray70);
+    background-color: var(--BackgroundColors__Dark);
     display:flex;
     flex-direction: column;
     align-items:center;
@@ -366,7 +364,7 @@ body {
     font-family: 'Outfit', sans-serif;
     font-size: 18px;
     font-weight: 200;
-    color:white;
+    color: var(--TextColors__Primary);
     text-align:center;
 }
 
@@ -383,13 +381,13 @@ body {
     font-family: 'Outfit', sans-serif;
     font-size: 18px;
     font-weight: 200;
-    color: white;
+    color: var(--TextColors__Primary);
     text-decoration: none;
     transition: color 0.3s ease-in-out;
 }
 
 #footer-links a:hover{
-    color: rgb(183, 183, 183);
+    color: var(--TextColors__Primary);
 }
 
 #credit-tag img{
