@@ -19,7 +19,7 @@
 }
 
 /*Dark Mode*/
-body.dark{
+html[data-theme="dark"]{
   --BackgroundColors__Dark:var(--Blacks__Black00);
   --BackgroundColors__Light:var(--Whites__White00);
   --TextColors__Primary:var(--Whites__White00);
