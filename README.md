@@ -101,15 +101,12 @@ Update this section each week with observations, breakthroughs, and questions.
 
 ## Week 2​
 ### What I Learned
-- 
-- 
-- 
+- How to write and create conditional statements that provide function in Javascript
+- Toggling classes to create a switcher that changes the theme of website
 ​
 ​
 ### What Was Hard
-- 
-- 
-- ​
+- Understanding the == and === function (understand it now)​
 ​
 ### How I Used AI
 - 
@@ -125,7 +122,6 @@ Update this section each week with observations, breakthroughs, and questions.
 - [x] Peer Discussion: Design Systems
 ​
 **Learn**
-- [ ] Storyteller Tutorial
 - [x] Figma Variables
 - [x] Codedex Conditionals
 ​
@@ -134,7 +130,7 @@ Update this section each week with observations, breakthroughs, and questions.
 ​
 **Build**
 - [x] The Foundation
-- [ ] The Switch
+- [x] The Switch
 ​
 ---
 
