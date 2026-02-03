@@ -152,14 +152,14 @@ Update this section each week with observations, breakthroughs, and questions.
 - [ ] 
 ​
 **Learn**
-- [ ] 
+- [ ] SVG Tutorial
 - [ ] 
 ​
 **Reflect**
 - [x] Week 3 Visual Notes
 ​
 **Build**
-- [ ] 
+- [ ]  Theme Dropdown
 - [ ] 
 ​
 ---
