@@ -146,7 +146,7 @@ Update this section each week with observations, breakthroughs, and questions.
 ### What's Still Unclear
 -
 - ​
-### Work Completed (Week 2)
+### Work Completed (Week 3)
 ​
 **Engage**
 - [ ] 
