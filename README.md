@@ -109,13 +109,11 @@ Update this section each week with observations, breakthroughs, and questions.
 - Understanding the == and === function (understand it now)​
 ​
 ### How I Used AI
-- 
+- General debugging​
 - ​
-​
 ### What's Still Unclear
-- 
-​
-​
+- Nothing comes to mind :)
+  ​
 ### Work Completed (Week 2)
 ​
 **Engage**
