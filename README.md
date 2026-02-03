@@ -132,6 +132,38 @@ Update this section each week with observations, breakthroughs, and questions.
 ​
 ---
 
+## Week 3​
+### What I Learned
+- The power of SVGs and how they can be customized
+- Animation possibilities of SVGs in code​
+​
+### What Was Hard
+-
+- ​​
+### How I Used AI
+- General Debugging
+- ​​
+### What's Still Unclear
+-
+- ​
+### Work Completed (Week 2)
+​
+**Engage**
+- [ ] 
+​
+**Learn**
+- [ ] 
+- [ ] 
+​
+**Reflect**
+- [x] Week 3 Visual Notes
+​
+**Build**
+- [ ] 
+- [ ] 
+​
+---
+
 
 
 ## Quick Links
