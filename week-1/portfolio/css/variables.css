@@ -1,6 +1,6 @@
 /* Design Tokens — Gavin Figueroa's Portfolio */
 
-/* Color Tokens*/
+/* Colors*/
 :root{
   --Grays__Gray90:#303030;
   --Grays__Gray50:#b7b7b7;
@@ -25,7 +25,14 @@ html[data-theme="dark"]{
   --TextColors__Primary:var(--Whites__White00);
 }
 
-/* Colors */
+/* Typography */
+root{
+--Heading__fontfamily__headingfontfamily:Outfit;
+}
+
+
+
+/* Color Tokens */
 .Color Primitives{
   --Grays__Gray90:#303030;
   --Grays__Gray50:#b7b7b7;
@@ -49,7 +56,7 @@ html[data-theme="dark"]{
   --TextColors__White00:var(--Whites/White-00);
 }
 
-/* Typography */ 
+/* Typography Tokens */ 
 .Brand Typography{
   --Heading__fontfamily__headingfontfamily:Outfit;
   --Body__fontfamily__bodyfontfamily:Inter;
