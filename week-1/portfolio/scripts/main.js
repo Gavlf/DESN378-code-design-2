@@ -2,6 +2,10 @@ const savedTheme = localStorage.getItem('theme');
 if (savedTheme) {
   document.documentElement.dataset.theme = savedTheme;
 }
+else{
+  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  document.documentElement.dataset.theme = prefersDark ? 'dark' : 'light';
+}
 
 const toggle = document.querySelector('.theme-toggle');
 toggle.addEventListener('click', function() {
@@ -15,3 +19,7 @@ toggle.addEventListener('click', function() {
   document.documentElement.dataset.theme = newTheme;; 
   localStorage.setItem('theme', newTheme);
 });
+
+
+
+
