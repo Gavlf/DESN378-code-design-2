@@ -14,6 +14,16 @@ body {
     background-color: var(--BackgroundColors__Light);
   }
 
+  /* Reduced motion preference */
+    @media (prefers-reduced-motion: reduce) {
+  .fade-in,
+  .slide-up,
+  .theme-transition {
+    transition: none;
+    animation: none;
+  }
+}
+
 /* header */
 #header-text{
     color: var(--TextColors__Primary);
