@@ -1,7 +1,7 @@
 # DESN 378: Code + Design 2
 
 🔗 **[Learning Log](https://gavlf.github.io/DESN378-code-design-2/)**
-🔗 **[DESN368 Portfolio](https://github.com/Gavlf/DESN378-code-design-2)
+🔗 **[DESN368 Portfolio](https://gavlf.github.io/DESN378-code-design-2/week-1/portfolio/index.html)
 
 ---
 
@@ -101,31 +101,25 @@ Update this section each week with observations, breakthroughs, and questions.
 
 ## Week 2​
 ### What I Learned
-- 
-- 
-- 
+- How to write and create conditional statements that provide function in Javascript
+- Toggling classes to create a switcher that changes the theme of website
 ​
 ​
 ### What Was Hard
-- 
-- 
-- ​
+- Understanding the == and === function (understand it now)​
 ​
 ### How I Used AI
-- 
+- General debugging​
 - ​
-​
 ### What's Still Unclear
-- 
-​
-​
+- Nothing comes to mind :)
+  ​
 ### Work Completed (Week 2)
 ​
 **Engage**
 - [x] Peer Discussion: Design Systems
 ​
 **Learn**
-- [ ] Storyteller Tutorial
 - [x] Figma Variables
 - [x] Codedex Conditionals
 ​
@@ -134,7 +128,39 @@ Update this section each week with observations, breakthroughs, and questions.
 ​
 **Build**
 - [x] The Foundation
-- [ ] The Switch
+- [x] The Switch
+​
+---
+
+## Week 3​
+### What I Learned
+- The power of SVGs and how they can be customized
+- Animation possibilities of SVGs in code​
+​
+### What Was Hard
+-
+- ​​
+### How I Used AI
+- General Debugging
+- ​​
+### What's Still Unclear
+-
+- ​
+### Work Completed (Week 3)
+​
+**Engage**
+- [ ] 
+​
+**Learn**
+- [ ] SVG Tutorial
+- [ ] 
+​
+**Reflect**
+- [x] Week 3 Visual Notes
+​
+**Build**
+- [ ]  Theme Dropdown
+- [ ] 
 ​
 ---
 
@@ -143,7 +169,7 @@ Update this section each week with observations, breakthroughs, and questions.
 ## Quick Links
 
 - [My Profile](PROFILE.md)
-- [Labs](labs/)
+- [Labs](https://gavlf.github.io/DESN378-code-design-2/)
 
 ---
 
