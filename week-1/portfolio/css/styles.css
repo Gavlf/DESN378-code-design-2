@@ -409,6 +409,14 @@ body {
     text-align: center;
 }
 
+.theme-toggle{
+        width:100px;
+        height:auto;
+        border-radius: 5px;
+        background-color: var(--BackgroundColors__Light);
+        border-style: none;
+    }
+
 /*responsive styles*/
 @media (max-width: 768px) {
     #header-text{
