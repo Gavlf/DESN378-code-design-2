@@ -169,7 +169,7 @@ Update this section each week with observations, breakthroughs, and questions.
 ## Quick Links
 
 - [My Profile](PROFILE.md)
-- [Labs](labs/)
+- [Labs](https://gavlf.github.io/DESN378-code-design-2/)
 
 ---
 
