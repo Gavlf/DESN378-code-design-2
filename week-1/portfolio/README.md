@@ -8,6 +8,6 @@ My token system includes all my light mode and dark mode colors as well two typo
 . Did not change stars in contact section for light mode as they are animated. *(Will edit asap)
 
 <h1>Resources</h1>
-. MDN Web Docs: https://developer.mozilla.org/en-US
+. <a href="https://developer.mozilla.org/en-US/"> MDN Web Docs</a>
 <br>
 . Github Copilot
