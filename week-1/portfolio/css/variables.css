@@ -16,6 +16,7 @@
   --BackgroundColors__Light:var(--Grays__Gray20);
   --TextColors__Black00:var(--Blacks__Black00);
   --TextColors__Primary:var(--Grays__Gray90);
+  --TextColors__Hover:var(--Grays__Gray70);
 }
 
 /*Dark Mode*/
@@ -23,11 +24,26 @@ html[data-theme="dark"]{
   --BackgroundColors__Dark:var(--Blacks__Black00);
   --BackgroundColors__Light:var(--Whites__White00);
   --TextColors__Primary:var(--Whites__White00);
+  --TextColors__Hover:var(--Grays__Gray70);
 }
 
 /* Typography */
-root{
---Heading__fontfamily__headingfontfamily:Outfit;
+:root{
+  --Heading__fontfamily__headingfontfamily:Outfit;
+  --Body__fontfamily__bodyfontfamily:Inter;
+  --Body__textsize__fontsizes:17px;
+  --Body__textsize__fontsizem:24px;
+  --Body__textsize__fontsizel:32px;
+  --Heading__textsize__fontsizel:120px;
+  --Heading__textsize__fontsizem:100px;
+  --Heading__textsize__fontsizes:55px;
+  --Heading__textweight__fontweightlight:200;
+  --Heading__textweight__fontweightdefault:400;
+  --Body__textweight__fontweightlight:200;
+  --Body__textweight__fontweightdefault:400;
+  --Body__lineheight__lineheightdefault:38.400001525878906;
+  --Body__lineheight__lineheightspaced:21.600000381469727;
+  --Body__textweight__fontweightextralight:Extra Light;
 }
 
 
@@ -75,10 +91,12 @@ root{
   --Body__textweight__fontweightextralight:Extra Light;
 }
 
-/* Spacing */ 
+/* Spacing Tokens */ 
 .Spacing{
   --M:64.08999633789062;
   --L:160;
   --S:40;
   --XL:185;
+  --XXL:200;
+  --XXXL:400;
 }
