@@ -156,6 +156,7 @@ Update this section each week with observations, breakthroughs, and questions.
 **Build**
 - [x] The Mark (Geometry and Primitives)
 - [x] Svg Anatomy
+- [x] Theme Dropdown and Custom SVGs
 ​
 ---
 
@@ -182,12 +183,36 @@ Update this section each week with observations, breakthroughs, and questions.
 - [x] 
 ​
 **Build**
-- [x] 
+- [x] Theme Dropdown and Custom SVGs
 - [x] 
 ​
 ---
 
-
+## Week 5​
+### What I Learned
+- ​
+​
+### What Was Hard
+- 
+- ​​
+### How I Used AI
+- 
+- ​​
+### What's Still Unclear
+- N/A​
+### Work Completed (Week 3)
+​
+**Learn**
+- [x] 
+​
+**Reflect**
+- [x] 
+​
+**Build**
+- [x] 
+- [x] 
+​
+---
 
 ## Quick Links
 
