@@ -164,27 +164,29 @@ Update this section each week with observations, breakthroughs, and questions.
 
 ## Week 4​
 ### What I Learned
-- ​
+- How to use basic GSAP features to animate SVGS.​
 ​
 ### What Was Hard
-- 
-- ​​
+- I didn't find anything particularly difficult
+  ​​
 ### How I Used AI
-- 
-- ​​
+- General debuggings
+- Questions​​
 ### What's Still Unclear
 - N/A​
-### Work Completed (Week 3)
+### Work Completed (Week 4)
 ​
 **Learn**
-- [x] 
+- [x] Switch Practice
+- [x] Green Sock Animation Platform
 ​
 **Reflect**
-- [x] 
+- [x] Metaphor Alignment
+- [x] ScrollyTelling Research
 ​
 **Build**
-- [x] Theme Dropdown and Custom SVGs
-- [x] 
+- [x] ScrollyTelling Style System
+- [ ] GSAP SVG
 ​
 ---
 
