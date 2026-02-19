@@ -138,29 +138,52 @@ Update this section each week with observations, breakthroughs, and questions.
 - Animation possibilities of SVGs in code​
 ​
 ### What Was Hard
--
-- ​​
+- Understanding path function
+- Positioning SVG Elements​​
 ### How I Used AI
 - General Debugging
 - ​​
 ### What's Still Unclear
--
-- ​
+- N/A​
 ### Work Completed (Week 3)
 ​
-**Engage**
-- [ ] 
-​
 **Learn**
-- [ ] SVG Tutorial
-- [ ] 
+- [x] SVG Tutorial
 ​
 **Reflect**
 - [x] Week 3 Visual Notes
 ​
 **Build**
-- [ ]  Theme Dropdown
-- [ ] 
+- [x] The Mark (Geometry and Primitives)
+- [x] Svg Anatomy
+​
+---
+
+---
+
+## Week 4​
+### What I Learned
+- ​
+​
+### What Was Hard
+- 
+- ​​
+### How I Used AI
+- 
+- ​​
+### What's Still Unclear
+- N/A​
+### Work Completed (Week 3)
+​
+**Learn**
+- [x] 
+​
+**Reflect**
+- [x] 
+​
+**Build**
+- [x] 
+- [x] 
 ​
 ---
 
