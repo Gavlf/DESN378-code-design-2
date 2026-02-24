@@ -7,7 +7,7 @@
 
 ## About This Repository
 
-This is my workspace for **DESN 378 Code + Design 2** also known as **Web Design 2** (or in the future, **Web Design + Code 2**) at Eastern Washington University. **The question this course asks:** How should things behave? In DESN 368, I learned how to make things look right. Here, I'm learning how to make things behave right — treating code as a design material with properties, behaviors, and constraints, just like paint, paper, or clay. Throughout the quarter, I'll work with four digital materials: CSS systems, SVG, animation libraries, and generative code — learning how each responds to manipulation and what each makes possible. Unlike courses focused on user research or backend engineering, this one asks: How does it feel? By the end, this repo will become my portfolio.
+This is my workspace for **DESN 378 Code + Design 2**, also known as **Web Design 2** (or in the future, **Web Design + Code 2**) at Eastern Washington University. **The question this course asks:** How should things behave? In DESN 368, I learned how to make things look right. Here, I'm learning how to make things behave right — treating code as a design material with properties, behaviors, and constraints, just like paint, paper, or clay. Throughout the quarter, I'll work with four digital materials: CSS systems, SVG, animation libraries, and generative code — learning how each responds to manipulation and what each makes possible. Unlike courses focused on user research or backend engineering, this one asks: How does it feel? By the end, this repo will become my portfolio.
 
 
 ---
@@ -16,7 +16,8 @@ This is my workspace for **DESN 378 Code + Design 2** also known as **Web Design
 
 | # | Project | Focus | Status |
 |---|---------|-------|--------|
-| 1 | The System | Design tokens + theme switching | 🔲 |
+| 1 | The System | Design tokens + theme switching | ✅ |
+| 2 | Scrolly Telling | GSAP animations + scroll toggle | ⬜ |
 
 ---
 
@@ -24,93 +25,105 @@ This is my workspace for **DESN 378 Code + Design 2** also known as **Web Design
 
 Update this section each week with observations, breakthroughs, and questions.
 
-## Week 0​
+---
+## Week 5​
 ### What I Learned
-- How to create and assign meaning/function to variables
-- The basic structure of JavaScript code
-- Java is similar to Python in its objective focus
-​
-​
+- ​What scrollytelling is and how it helps us understand information
+- How GSAP can help web developers tell a story
+   ​
 ### What Was Hard
-- Having to create a variable and then assign it meaning instead of doing it all at once, like with classes or IDs in CSS
-- The initial process of learning to read Java (it looks complicated at first)​
-​
+- Finding a metaphor that works well for my scrollytelling project
+  ​​
 ### How I Used AI
-- I used Copilot to help me further customize my image switcher and custom user functions on the behavioral layer assignment
-​
-​
+- Scrollytelling discussion
+- General questions
+- General debugging
+  ​​
 ### What's Still Unclear
-- How do I link my CSS to my script?
-​
-​
-### Work Completed (Week 0)
-​
-**Engage**
-- [x] Portfolio Audit
+- Nothing comes to mind :)
+  ​
+### Work Completed (Week 5)
 ​
 **Learn**
-- [x] Console Explorer
-- [x] Codedex Console Fundamentals
+- [x] Switch Practice
+- [x] Green Sock Animation Platform
 ​
 **Reflect**
-- [x] Visual Notes: Variables and Strings
+- [x] Metaphor Alignment
+- [x] ScrollyTelling Research
 ​
 **Build**
-- [x] The Setup
-- [x] The Behavioral Layer
-​
----
+- [x] ScrollyTelling Style System
+- [ ] GSAP SVG
 
-## Week 1​
+---
+## Week 4​
 ### What I Learned
-- How to use the query.selector() property to target elements
-- What a design system is and how it is built and maintained
-- Add or remove from list of classes using the .classlist property
-​
-​
+- How to draw SVGs in code
+- How to design for system preference in theme toggle
+  ​​
 ### What Was Hard
-- Setting up and coding the storyteller assignment
-- Remembering proper syntax for properties (.classList instead of .classlist)
-- * literally still used the wrong syntax above -_-​
+- Understanding SVG viewbox
+  ​​
+### How I Used AI
+- General debuggings
+- General questions
+  ​​
+### What's Still Unclear
+- Nothing comes to mind :)
+  ​
+### Work Completed (Week 4)
 ​
+**Learn**
+- [x] SVG Anatomy
+​
+**Reflect**
+- [x] Week 4 Visual Notes
+- [x] SVG Tutorial
+​
+**Build**
+- [x] Theme Dropdown and Custom SVGs
+- [x] SVG Primitives Logo
+
+---
+## Week 3​
+### What I Learned
+- How to use localStorage to save a user preference
+- How to design towards user preference
+  ​​
+### What Was Hard
+- Implementing variables due to exporting issues
+  ​​
 ### How I Used AI
 - General debugging
-- Refresher on CSS Grid ​
-​
+- General questions
+  ​​
 ### What's Still Unclear
-- How to organize my scripts in a logical order for better reading
-​
-​
-### Work Completed (Week 1)
-​
-**Engage**
-- [x] VS Code Theme Setup
-​
-**Learn**
-- [x] Codedex Variables
-- [x] Intro to Javascript
-​
+- Nothing comes to mind :)
+  ​
+### Work Completed (Week 3)
+​​
 **Reflect**
-- [x] Week 1 Visual Notes
+- [x] Week 3 Visual Notes
 ​
 **Build**
-- [x] Portfolio Migration
-- [x] Storyteller
-​
----
+- [x] The Preference
+- [x] The Inheritance
+- [x] Project 1 (Signal & State)
 
+---
 ## Week 2​
 ### What I Learned
-- How to write and create conditional statements that provide function in Javascript
-- Toggling classes to create a switcher that changes the theme of website
-​
-​
+- How to write and create conditional statements that provide a function in JavaScript
+- Toggling classes to create a switcher that changes the theme of the website
+  ​
 ### What Was Hard
-- Understanding the == and === function (understand it now)​
-​
+- Understanding the == and === function (understand it now)
+  ​​
 ### How I Used AI
-- General debugging​
-- ​
+- General Debugging​
+- General Questions
+  ​
 ### What's Still Unclear
 - Nothing comes to mind :)
   ​
@@ -131,88 +144,72 @@ Update this section each week with observations, breakthroughs, and questions.
 - [x] The Switch
 ​
 ---
-
-## Week 3​
+## Week 1​
 ### What I Learned
-- The power of SVGs and how they can be customized
-- Animation possibilities of SVGs in code​
-​
+- How to use the query.selector() property to target elements
+- What a design system is and how it is built and maintained
+- Add or remove from list of classes using the .classlist property
+​​
 ### What Was Hard
-- Understanding path function
-- Positioning SVG Elements​​
+- Setting up and coding the storyteller assignment
+- Remembering proper syntax for properties (.classList instead of .classlist)
+- * literally still used the wrong syntax above -_-​
+​
 ### How I Used AI
-- General Debugging
-- ​​
+- General debugging
+- Refresher on CSS Grid ​
+​
 ### What's Still Unclear
-- N/A​
-### Work Completed (Week 3)
+- How to organize my scripts in a logical order for better reading
+​​
+### Work Completed (Week 1)
+​
+**Engage**
+- [x] VS Code Theme Setup
 ​
 **Learn**
-- [x] SVG Tutorial
+- [x] Codedex Variables
+- [x] Intro to Javascript
 ​
 **Reflect**
-- [x] Week 3 Visual Notes
+- [x] Week 1 Visual Notes
 ​
 **Build**
-- [x] The Mark (Geometry and Primitives)
-- [x] Svg Anatomy
-- [x] Theme Dropdown and Custom SVGs
+- [x] Portfolio Migration
+- [x] Storyteller
 ​
 ---
-
----
-
-## Week 4​
+## Week 0​
 ### What I Learned
-- How to use basic GSAP features to animate SVGS.​
-​
+- How to create and assign meaning/function to variables
+- The basic structure of JavaScript code
+- Java is similar to Python in its objective focus
+​​
 ### What Was Hard
-- I didn't find anything particularly difficult
-  ​​
+- Having to create a variable and then assign it meaning instead of doing it all at once, like with classes or IDs in CSS
+- The initial process of learning to read Java (it looks complicated at first)​
+​
 ### How I Used AI
-- General debuggings
-- Questions​​
+- I used Copilot to help me further customize my image switcher and custom user functions on the behavioral layer assignment
+​​
 ### What's Still Unclear
-- N/A​
-### Work Completed (Week 4)
+- How do I link my CSS to my script?
+​​
+### Work Completed (Week 0)
+​
+**Engage**
+- [x] Portfolio Audit
 ​
 **Learn**
-- [x] Switch Practice
-- [x] Green Sock Animation Platform
+- [x] Console Explorer
+- [x] Codedex Console Fundamentals
 ​
 **Reflect**
-- [x] Metaphor Alignment
-- [x] ScrollyTelling Research
+- [x] Visual Notes: Variables and Strings
 ​
 **Build**
-- [x] ScrollyTelling Style System
-- [ ] GSAP SVG
-​
----
-
-## Week 5​
-### What I Learned
-- ​
-​
-### What Was Hard
-- 
-- ​​
-### How I Used AI
-- 
-- ​​
-### What's Still Unclear
-- N/A​
-### Work Completed (Week 3)
-​
-**Learn**
-- [x] 
-​
-**Reflect**
-- [x] 
-​
-**Build**
-- [x] 
-- [x] 
+- [x] The Setup
+- [x] The Behavioral Layer
 ​
 ---
 
