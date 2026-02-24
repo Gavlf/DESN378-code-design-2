@@ -17,13 +17,67 @@ This is my workspace for **DESN 378 Code + Design 2**, also known as **Web Desig
 | # | Project | Focus | Status |
 |---|---------|-------|--------|
 | 1 | The System | Design tokens + theme switching | ✅ |
-| 2 | Scrolly Telling | GSAP animations + scroll toggle | ⬜ |
+| 2 | Scrollytelling | GSAP animations + scroll toggle | ⬜ |
 
 ---
 
 ## Learning Log
 
 Update this section each week with observations, breakthroughs, and questions.
+
+---
+## Week 7​
+### What I Learned
+- ​
+   ​
+### What Was Hard
+-
+  ​​
+### How I Used AI
+- 
+  ​​
+### What's Still Unclear
+- 
+  ​
+### Work Completed (Week 7)
+
+**Leanrn**
+- [ ] The Parallax
+​​
+**Reflect**
+- [ ] Week 7 Visual Notes
+​
+**Build**
+- [ ] Rough Cut 1
+
+---
+## Week 6​
+### What I Learned
+- ​How to use AI to assist in SVG animation
+- How ScrollTrigger and Parallax work
+   ​
+### What Was Hard
+- Nothing comes to mind :)
+  ​​
+### How I Used AI
+- SVG animation help
+- General questions
+- General debugging
+  ​​
+### What's Still Unclear
+- Nothing comes to mind :)
+  ​
+### Work Completed (Week 6)
+​
+**Learn**
+- [x] GSAP AI SVG Tutorial
+​
+**Reflect**
+- [ ] Week 6 Visual Notes
+​
+**Build**
+- [x] The Blueprint
+- [ ] Motion Map
 
 ---
 ## Week 5​
