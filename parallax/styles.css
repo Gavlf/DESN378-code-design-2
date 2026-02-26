@@ -2,12 +2,25 @@
   margin: 0;
 }
 
+body{
+  min-height: 220vh;
+  overflow-x: hidden;
+}
+
 .foreground{
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100vw;
+  height: 100vh;
+  overflow: hidden;
 }
+
+#foreground-1{ z-index: 4; }
+#foreground-2{ z-index: 3; }
+#foreground-3{ z-index: 2; }
+#foreground-4{ z-index: 1; }
+#foreground-5{ z-index: 5; }
 
 #layer-1{
   position: absolute;
@@ -15,7 +28,7 @@
   left: 0;
   width: 100vw;
   height: auto;
-  z-index: 2;
+  z-index: 1;
 }
 
 #layer-2{
@@ -33,7 +46,7 @@
   left: 0;
   width: 100vw;
   height: auto;
-  z-index: 0;
+  z-index: 1;
 }
 
 #layer-4{
@@ -42,5 +55,15 @@
   left: 0;
   width: 100vw;
   height: auto;
-  z-index: -1;
+  z-index: 1;
+}
+
+#layer-5{
+  position: absolute;
+  top: -4vh;
+  left: 0;
+  width: 100vw;
+  height: auto;
+  z-index: 1;
+  pointer-events: none;
 }
